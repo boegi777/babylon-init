@@ -1,0 +1,20 @@
+{
+  "name": "firstgame",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "paul <pboegelsack@googlemail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "babylonjs": "^2.4.1"
+  }
+}
