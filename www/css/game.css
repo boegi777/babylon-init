@@ -1,4 +1,3 @@
-/* do some stylesheet here */
 html, body {
         overflow: hidden;
         width   : 100%;
@@ -7,8 +6,8 @@ html, body {
         padding : 0;
     }
 
-    #renderCanvas {
-        width   : 100%;
-        height  : 100%;
-        touch-action: none;
-    }
+#renderCanvas {
+    width   : 100%;
+    height  : 100%;
+    touch-action: none;
+}
